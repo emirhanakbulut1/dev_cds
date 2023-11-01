@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DDLS>
-    <DDLNAME>ZEAKBULUT_5048_CDS_001</DDLNAME>
+    <DDLNAME>ZEAKBULUT_5048_CDS_003</DDLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
-    <DDTEXT>Emirhan Akbulut CDS 001</DDTEXT>
+    <DDTEXT>CDS Ödevi 2-2</DDTEXT>
     <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
